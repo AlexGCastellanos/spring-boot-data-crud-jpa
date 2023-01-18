@@ -9,7 +9,7 @@ Puedes acceder desde esta url --> https://crud-springboot-jpa.herokuapp.com/list
 * ☕ Java
 * 🍃 Spring Framework
 * 🖥 Spring Data (Hibernate - JPA)
-*🌿 Thymeleaf
+* 🌿 Thymeleaf
 * 🟧 HTML
 * 🟦 CSS
 * 🟪 BOOTSTRAP
