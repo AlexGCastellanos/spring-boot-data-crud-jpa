@@ -2,7 +2,9 @@
 
 En este proyecto puedes realizar un CRUD con una lista de Clientes !
 
-# Tecnologías usadas:
+Puedes acceder desde esta url --> https://crud-springboot-jpa.herokuapp.com/listar
+
+## Tecnologías usadas:
 
 - Java
 - Spring Framework
