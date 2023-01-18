@@ -6,10 +6,10 @@ Puedes acceder desde esta url --> https://crud-springboot-jpa.herokuapp.com/list
 
 ## Tecnologías usadas:
 
-- Java
-- Spring Framework
-- Spring Data (Hibernate - JPA)
-- Thymeleaf
-- HTML
-- CSS
-- BOOTSTRAP
+☕ Java
+🍃 Spring Framework
+🖥 Spring Data (Hibernate - JPA)
+🌿 Thymeleaf
+🟧 HTML
+🟦 CSS
+🟪 BOOTSTRAP
