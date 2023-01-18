@@ -10,7 +10,8 @@
 	</parent>
 	<groupId>com.agarzon.springboot.app</groupId>
 	<artifactId>spring-boot-data-jpa</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1</version>
+	<packaging>war</packaging>
 	<name>spring-boot-data-jpa</name>
 	<description>Spring Boot JPA App</description>
 	<properties>
